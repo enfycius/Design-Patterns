@@ -27,7 +27,7 @@
 
 ## :partly_sunny: Tutorials
 
-This section refers to the following [link](https://enfycius.github.io/_enfycius/docs/category/design-patterns).
+This section refers to the following [link](https://enfycius.github.io/_enfycius/docs-cs/category/design-patterns).
 
 ## :warning: License
 
